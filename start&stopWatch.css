@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: #186c87;
+  
+
+}
+
+.box {
+    width: 900px;
+    margin: 230px auto;
+    color: #fff;
+    text-align: center;
+    border: 1px solid #000;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.watch {
+    color: #303030;
+}
+
+#seconds,
+#tens {
+    font-size: 80px;
+   
+}
+
+button {
+
+    background: gray;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 18px 10px;
+    width: 200px;
+    margin: 50px;
+    outline: none;
+    text-transform: uppercase;
+
+}
